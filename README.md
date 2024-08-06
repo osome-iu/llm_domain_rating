@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains the code and data for the paper "Accuracy and Political Bias of News Source Credibility Ratings by Large Language Models."
+This repo contains the code and data for the paper "[Accuracy and Political Bias of News Source Credibility Ratings by Large Language Models](https://arxiv.org/abs/2304.00228)."
 
 # Data
 

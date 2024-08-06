@@ -3,12 +3,12 @@
 This directory contains the code for our paper.
 Content of different files:
 
-- `api_keys.json`: API keys for OpenAI, Together.ai, and Google
-- `utils.py`: Utility functions
-- `api_factory.py`: Code to create API objects
-- `prompt_factory.py`: Prompts for the experiments
-- `query_llm.py`: Script to query the LLM
-- `parse_results.py`: Script to parse the results
+- [`api_keys.json`](api_keys.json): API keys for OpenAI, Together.ai, and Google
+- [`utils.py`](utils.py): Utility functions
+- [`api_factory.py`](api_factory.py): Code to create API objects
+- [`prompt_factory.py`](prompt_factory.py): Prompts for the experiments
+- [`query_llm.py`](query_llm.py): Script to query the LLM
+- [`parse_results.py`](parse_results.py): Script to parse the results
 
 To run the code, you need to set up API keys from OpenAI, Together.ai, and Google and put them in `api_keys.json`.
 
