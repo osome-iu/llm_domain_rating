@@ -22,10 +22,13 @@ We share the code that we used to query the LLMs in [/code](/code).
 You can cite our work as follows:
 
 ```bib
-@article{yang2024accuracy,
-  title={Accuracy and Political Bias of News Source Credibility Ratings by Large Language Models},
-  author={Yang, Kai-Cheng and Menczer, Filippo},
-  journal={Preprint arXiv:2304.00228},
-  year={2024}
+@misc{yang2024accuracypoliticalbiasnews,
+      title={Accuracy and Political Bias of News Source Credibility Ratings by Large Language Models},
+      author={Kai-Cheng Yang and Filippo Menczer},
+      year={2024},
+      eprint={2304.00228},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2304.00228},
 }
 ```
