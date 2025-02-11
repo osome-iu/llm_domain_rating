@@ -22,6 +22,7 @@ The model column indicates the specific versions of the LLMs used in our experim
 | gpt4omini20240718 | gpt-4o-mini-2024-07-18 |
 | gpt4o20240513 | gpt-4o-2024-05-13 |
 | gpt4turbo20240409 | gpt-4-turbo-2024-04-09 |
+| o1mini20240912 | o1-mini-2024-09-12 |
 | llama318binstructturbo | meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo |
 | llama3170binstructturbo | meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo |
 | llama31405binstructturbo | meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo |
