@@ -2,6 +2,8 @@
 
 This repo contains the code and data for the paper "[Accuracy and Political Bias of News Source Credibility Ratings by Large Language Models](https://doi.org/10.1145/3717867.3717903)."
 
+Also, check out our [dashboard](https://yang3kc.github.io/llm_domain_classification/) with updated results for more recent LLMs.
+
 # Data
 
 We use the following data in our study:
